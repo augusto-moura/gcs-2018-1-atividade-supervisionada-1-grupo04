@@ -1,0 +1,14 @@
+﻿Nome artefato: JpCabral.txt
+Nome do(a) autor(a): João Paulo Oliveira Cabral.
+Data de criação: 25/04/2018
+Hora de criação: 23:52:10
+
+Nome artefato: JpCabral.txt
+Nome do(a) autor(a): Augusto Borges de Moura
+Data de criação: 26/04/2018
+Hora de criação: 00:30:10
+
+Nome artefato: JpCabral.txt
+- Nome do(a) autor(a) da alteração: Murilo de Oliveira Silva
+- Data da alteração: 26/04/2018
+- Hora da alteração: 00:41:05
