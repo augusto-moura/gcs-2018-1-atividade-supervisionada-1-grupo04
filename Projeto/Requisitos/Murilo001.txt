@@ -1,4 +1,6 @@
 - Nome do artefato: Murilo001.txt
 - Nome do(a) autor(a): Murilo de Oliveira Silva
 - Data de criação: 26/04/2018
-- Hora de criação: 00:58:45
+- Nova linha criada aqui
+- Hora de criação: (Alterando essa linha aqui)00:58:45
+- Nova linha no final do arquivo
