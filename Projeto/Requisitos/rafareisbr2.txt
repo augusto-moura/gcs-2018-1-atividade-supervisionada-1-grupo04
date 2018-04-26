@@ -1,0 +1,5 @@
+Nome artefato: rafareisbr2.txt
+Nome do(a) autor(a): Rafael Reis
+Data de criação: 26/04/2018
+Hora de criação: 19:18:00
+Documento criado no ramo2
