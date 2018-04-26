@@ -2,8 +2,9 @@ Nome artefato: rafareisbr.txt
 Nome do(a) autor(a): Rafael Reis # Edição 3
 Edição no master
 Edição 5, 6, 7
+Inserção entre conteudos
 Data de criação: 26/04/2018
 Hora de criação: 00:59:20
-Edição 12312
+1111
 
-Edição 1 , Edição 2
+Edição 1 , Edição 2, Edição 3
