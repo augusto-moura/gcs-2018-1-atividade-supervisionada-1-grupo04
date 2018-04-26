@@ -1,4 +1,9 @@
 - Nome artefato: augusto-moura.txt
 - Nome do(a) autor(a): Augusto Borges de Moura
-- Data de cria��o: 25/04/2018
-- Hora de cria��o: 23:48:00
+- Data de criação: 25/04/2018
+- Hora de criação: 23:48:00
+
+Nome artefato: augusto-moura.txt
+Nome do(a) autor(a) da alteração: rafareisbr
+Data da alteração: 26/04/2018
+Hora da alteração: 00:30:00
